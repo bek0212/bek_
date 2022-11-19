@@ -1,0 +1,44 @@
+.container__father {
+  width: 1300px;
+  height: 3910px;
+  background: #FFFFFF;
+  border: 1px solid black;
+  margin: 20px auto;
+}
+
+.header__card__text {
+  font-size: 35px;
+}
+
+.header__card__box {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+}
+
+.header__card {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header__ul {
+  display: flex;
+}
+
+.header__li {
+  display: flex;
+  padding: 10px 30px;
+  color: black;
+  font-family: Arial;
+  font-style: normal;
+}
+
+.header__links {
+  color: black;
+  text-decoration-line: none;
+}
+
+.header__links1 {
+  color: black;
+}
